@@ -1,0 +1,108 @@
+
+ ***Banking System Application***
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+Enter your choice: 
+
+1
+101	sandip	1000
+102	amit	25000
+103	kiran	1500
+104	sunil	20000
+
+ ***Banking System Application***
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+Enter your choice: 
+
+2
+Enter Account no to display: 104
+104	sunil	20000
+
+ ***Banking System Application***
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+Enter your choice: 
+3
+Enter Account no: 102
+Enter the amount to be deposited
+1000
+Your Previous Details
+102	amit	25000
+Deposit of amount Rs.1000 is successful 
+Your final amount Rs26000 :)
+ Details after deposited
+102	amit	26000
+
+ ***Banking System Application***
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+Enter your choice: 
+4
+Enter Account no: 101
+Enter the amount you want to withdraw: 
+150
+Your Details
+101	sandip	1000
+Transaction failed...!! Sorry, your balance is insufficient to allow withdrawal
+
+ ***Banking System Application***
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+Enter your choice: 
+4
+Enter Account no: 102
+Enter the amount you want to withdraw: 
+5000
+Before transaction
+102	amit	26000
+Withdrawel of amount Rs.5000 is successful
+
+Your final amount Rs21000 :)
+After transaction
+102	amit	21000
+
+ ***Banking System Application***
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+Enter your choice: 
+
+4
+Enter Account no: 103
+Enter the amount you want to withdraw: 
+1000
+Before transaction
+103	kiran	1500
+Your final amount Rs500 will get lesser than minimum amount(Rs 1000) :(
+ Sorry, your balance is insufficient to allow withdraw 
+After transaction
+103	kiran	1500
+
+ ***Banking System Application***
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+Enter your choice: 
+
+5
+See you soon...
